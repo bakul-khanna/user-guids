@@ -10,5 +10,11 @@ SubHeading
   This is a hyperlink to [Google](http://google.com).
 
   Images are like hyperlinks, but with an exclamation mark in front of them:
-  ![](http://placekitten.com/g/250/250)
+  ![](http://placekitten.com/g/100/100)
+  
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
   
